@@ -1,4 +1,4 @@
-# -Faculdade-PI-ADS2 - Projeto JavaFX - Sistema de Login e Consulta ao Banco de Dados
+# Faculdade-PI-ADS2 - Projeto JavaFX - Sistema de Login e Consulta ao Banco de Dados
 
 Este é um dos meus primeiros projetos desenvolvidos em **Java**, utilizando a biblioteca **JavaFX** para criar a interface gráfica do usuário.
 
